@@ -12,9 +12,9 @@ This will help you decide how to deal with these NaNs based on their frequency.
 - An IDE for Python (I use Jupyter Notebook but you can use any other IDE or code editor).
 
 ### To run the MaxLength function :
-- 1- Copy and paste the function in your code editor.
-- 2- Call the function with one argument which is the name of the dataframe you wish to analyse (exp : find_nan(my_df)
-- 3- You're done ! A table will be displayed providing you with the information mentioned in the first section of this Readme file.
+1- Copy and paste the function in your code editor. <br/>
+2- Call the function with one argument which is the name of the dataframe you wish to analyse (exp : find_nan(my_df) <br/>
+3- You're done ! A table will be displayed providing you with the information mentioned in the first section of this Readme file. <br/>
 
 ## Contributing
 Do not hesitate to suggest improvements or report any bug !
